@@ -8,6 +8,8 @@ Front-End developer with 4+ years of experience helping companies create and mai
 ![image]({https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
 })
 
+<img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}" />
+
 <!---
 alas1n/alas1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
