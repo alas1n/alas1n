@@ -1,4 +1,4 @@
-![cover image]([https://user-images.githubusercontent.com/21110469/171112068-26e89966-ce59-4d84-8bb5-40b78c60c630.jpeg](https://media-exp1.licdn.com/dms/image/C4E16AQEQ0jgBM7jajg/profile-displaybackgroundimage-shrink_350_1400/0/1653043897200?e=1659571200&v=beta&t=sQIVHriGgG3s24kze6FAZVm9lAVNbO4wnyVevDa5FpQ))
+![cover image](https://media-exp1.licdn.com/dms/image/C4E16AQEQ0jgBM7jajg/profile-displaybackgroundimage-shrink_350_1400/0/1653043897200?e=1659571200&v=beta&t=sQIVHriGgG3s24kze6FAZVm9lAVNbO4wnyVevDa5FpQ)
 
 
 
