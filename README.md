@@ -1,7 +1,4 @@
-![1653043897200](https://user-images.githubusercontent.com/21110469/228211979-fd6e0e06-4a67-4a43-a2e2-9d84a7de5ee0.jpeg)
-
-
-
+<img src="https://user-images.githubusercontent.com/21110469/228211979-fd6e0e06-4a67-4a43-a2e2-9d84a7de5ee0.jpeg" alt="cover image" width="100%"/>
 
 
 # Software Engineer - Front-End developer 
