@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQEQ0jgBM7jajg/profile-displaybackgroundimage-shrink_350_1400/0/1653043897200?e=1677110400&v=beta&t=ojLxIE3s6Z5FODhVTvUhkJfJL-LBdFsqFZzKqV_IDQg" alt="cover image" width="100%"/>
+![1653043897200](https://user-images.githubusercontent.com/21110469/228211979-fd6e0e06-4a67-4a43-a2e2-9d84a7de5ee0.jpeg)
 
 
 
